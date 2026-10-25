@@ -1,0 +1,7 @@
+*.elf
+*.bin
+*.iso
+*.img
+*.o
+
+.clang-format
